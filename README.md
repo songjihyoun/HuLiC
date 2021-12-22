@@ -38,7 +38,7 @@ API를 정해진 포맷에 맞춰 제출합니다.
 - Human : 사람과 사람이 영화를 주제로 대화한 내용을 워커가 항목에 맞게 평가한 결과로 데이터를 구축했습니다.
 - 해외 모델 : 해외 모델(오픈 소스 또는 유료)을 사용하여 워커와 대화를 진행하고 평가한 결과로 데이터를 구축했습니다.
 - Human 데이터 샘플  
-![image](https://user-images.githubusercontent.com/95196586/147071015-c936d7f0-191d-43c7-97d8-72efbcdc93d1.png)
+![image](https://user-images.githubusercontent.com/95196586/147073400-b7240f7f-38fe-441e-888e-b192e62d73a9.png)
 
 ### 참고 자료
 ***
