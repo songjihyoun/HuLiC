@@ -12,7 +12,7 @@
 - Human 평가 : 제출한 모델에 대해 사람이 대화 하고, 평가한 결과를 제공합니다.
 - 네트워킹 세션 : 유사 연구를 하는 연구자들에 모임과 정보 공유를 통해 함께 발전해 나가는 커뮤니티의 장을 제공합니다.
 - 애널리틱스 : 제출한 모델에 대해 평가한 결과를 상세 분석한 레포트 제공합니다.
-- 최신 AI 기술 : Smilegate.AI 만의 최신 기술과 소식 그리고 논문에 대해 토론하고 나누는 정보 제공합니다.
+- 최신 AI 기술 : Smilegate.AI 만의 최신 기술과 소식 그리고 논문에 대해 토론하고 수집한 정보를 제공합니다.
 
 ### 진행 방식
 ***
@@ -35,3 +35,8 @@
 - Blender 1.0 : https://parl.ai/projects/recipes, https://huggingface.co/facebook/blenderbot-400M-distill
 - Blender 2.0 : https://parl.ai/projects/blenderbot2
 - GPT3 : https://openai.com/
+
+### 문의
+***
+- E -mail : hulic@smilegate.com
+- 주최 : Smilegate AI 센터
