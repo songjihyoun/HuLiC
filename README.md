@@ -40,3 +40,5 @@
 ***
 - E -mail : hulic@smilegate.com
 - 주최 : Smilegate AI 센터
+![image](https://user-images.githubusercontent.com/95196586/147051630-4349004b-89bf-4a82-b37c-79ee1ef05bf1.png)
+
