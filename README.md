@@ -33,6 +33,6 @@ HuLiC은 인간의 “기능”을 흉내 내는 것이 아니라 “인간 다�
 
 ### 참고 자료
 ***
--- Blender 1.0 : https://parl.ai/projects/recipes, https://huggingface.co/facebook/blenderbot-400M-distill
--- Blender 2.0 : https://parl.ai/projects/blenderbot2
--- GPT3 : https://openai.com/
+- Blender 1.0 : https://parl.ai/projects/recipes, https://huggingface.co/facebook/blenderbot-400M-distill
+- Blender 2.0 : https://parl.ai/projects/blenderbot2
+- GPT3 : https://openai.com/
