@@ -58,7 +58,7 @@
 - 오픈소스 해외 모델 데이터 샘플
 ![image](https://user-images.githubusercontent.com/95196586/156279213-15bf5a13-ab0b-4e7f-8d66-2aa7cd6e1cae.png)
 
-#### Feature 설명
+#### 상세 설명
 - Turn : Full_conversation에 해당하는 점수를 기재하기 위해 1~20 턴을 표기해 주는 정보(오픈소스 모델의 경우 한 대화가 20턴 기준으로 끊어지는 것 표기) 
 - Worker : 평가자 구분 
 - Age : 평가자의 나잇대 
